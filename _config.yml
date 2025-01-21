@@ -31,9 +31,9 @@ xing_username: Marcel_Richter26
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -110,7 +110,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
